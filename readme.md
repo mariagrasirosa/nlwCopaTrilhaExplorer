@@ -1,14 +1,14 @@
 <h1 align="center"> Explorer NLW Copa #10 </h1>
 
 <p align="center">
-Participação do evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+     Participation at the event offered for Rocketseat.
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Projects</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-license">License</a>
 </p>
 
 <p align="center">
@@ -18,27 +18,24 @@ Participação do evento exclusivo e gratuito, promovido pela Rocketseat para en
 <br>
 
 <p align="center">
-  <img alt="rocketpay" src=".github/preview.jpg" width="100%">
+  <img alt="game calendar" src=".github/preview.jpg" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed whith this technologies: 
 
-- HTML, CSS e JavaScript
+- HTML, CSS and JavaScript
 
-## 💻 Projeto
+## 💻 Project
 
-Calendário de jogos da Copa 
-
+Games Calendar
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+You see the layout for project through [OF THIS LINK](). Is necessary have account at [Figma](https://figma.com) for access.
 
-## :memo: Licença
+## :memo: License
 
-Esse projeto está sob a licença MIT.
-
+This project is licensed
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
